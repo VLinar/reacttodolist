@@ -1,0 +1,6 @@
+[submodule "reacttodoback"]
+	path = reacttodoback
+	url = https://github.com/VLinar/reacttodoback.git
+[submodule "reacttodofront"]
+	path = reacttodofront
+	url = https://github.com/VLinar/reacttodofront.git
